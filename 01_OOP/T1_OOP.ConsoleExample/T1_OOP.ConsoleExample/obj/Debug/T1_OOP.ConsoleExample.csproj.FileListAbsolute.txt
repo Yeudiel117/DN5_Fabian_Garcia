@@ -1,0 +1,11 @@
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\T1_OOP.ConsoleExample\bin\Debug\T1_OOP.ConsoleExample.exe.config
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\T1_OOP.ConsoleExample\bin\Debug\T1_OOP.ConsoleExample.exe
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\T1_OOP.ConsoleExample\bin\Debug\T1_OOP.ConsoleExample.pdb
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\T1_OOP.ConsoleExample\obj\Debug\T1_OOP.ConsoleExample.csproj.AssemblyReference.cache
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\T1_OOP.ConsoleExample\obj\Debug\T1_OOP.ConsoleExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\T1_OOP.ConsoleExample\obj\Debug\T1_OOP.ConsoleExample.csproj.CoreCompileInputs.cache
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\T1_OOP.ConsoleExample\obj\Debug\T1_OOP.ConsoleExample.exe
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\T1_OOP.ConsoleExample\obj\Debug\T1_OOP.ConsoleExample.pdb
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\T1_OOP.ConsoleExample\bin\Debug\AudioManager.dll
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\T1_OOP.ConsoleExample\bin\Debug\AudioManager.pdb
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\T1_OOP.ConsoleExample\obj\Debug\T1_OOP.ConsoleExample.csproj.CopyComplete

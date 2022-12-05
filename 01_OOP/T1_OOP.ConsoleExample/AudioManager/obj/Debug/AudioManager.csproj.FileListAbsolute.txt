@@ -1,0 +1,6 @@
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\AudioManager\bin\Debug\AudioManager.dll
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\AudioManager\bin\Debug\AudioManager.pdb
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.csproj.AssemblyReference.cache
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.csproj.CoreCompileInputs.cache
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.dll
+C:\Users\sarge\Desktop\Academia Punto Singular\DN_Fabian_Garcia\01_OOP\T1_OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.pdb
