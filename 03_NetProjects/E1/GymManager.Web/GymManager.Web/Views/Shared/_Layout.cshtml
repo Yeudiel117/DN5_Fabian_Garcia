@@ -105,6 +105,7 @@
                         </li>
                     </ul>
                     <div class="d-flex">
+                        @await Html.PartialAsync("~/Views/Shared/_UserHeader.cshtml")
                         @RenderSection("HeaderRight", false)
                     </div>
                 </div>

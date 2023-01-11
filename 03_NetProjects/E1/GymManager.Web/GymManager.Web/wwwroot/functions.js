@@ -11,7 +11,7 @@ var id = document.getElementById('id');
             showModal();
 
         } else {
-            alert("An ID its required to do an entry");
+            alert("An ID is required to do an entry");
         }
     });
 
@@ -23,7 +23,7 @@ var id = document.getElementById('id');
                 showModal();
 
             } else {
-                alert("An ID its required to do a register");
+                alert("An ID is required to do a register");
             }
         }
 
