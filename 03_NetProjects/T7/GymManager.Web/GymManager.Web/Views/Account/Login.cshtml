@@ -7,10 +7,19 @@
 
 @model GymManager.Web.Models.LoginModel
 
+@section Script{
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+    <script src="~/lib/jqueryui/jquery-ui.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.js"></script>
+    <script src="~/views/members/create.js"></script>
+}
+
 <div class="container">
     <h1>Login</h1>
     <form asp-action="Login" class="col-md-4">
-
+        <div asp-validation-summary="All" class="text-danger"></div>
         <div class="mb-3">
             <label asp-for="Email" class="form-label">Email</label>
             <input type="email" class="form-control" asp-for="Email" />
@@ -19,7 +28,7 @@
 
         <div class="mb-3">
         <label asp-for="Password" class="form-label">Password</label>
-            <input type="text" class="form-control" asp-for="Password" />
+            <input type="password" class="form-control" asp-for="Password" />
             <span asp-validation-for="Password" class="text-danger"></span>
         </div>
 
