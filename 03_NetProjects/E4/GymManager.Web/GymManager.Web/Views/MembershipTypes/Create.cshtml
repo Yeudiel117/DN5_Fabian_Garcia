@@ -1,0 +1,51 @@
+﻿
+@model GymManager.Core.MembershipTypes.MembershipType
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Head{
+    <link href="~/lib/jqueryui/jquery-ui.min.css" rel="stylesheet" />
+}
+
+@section HeaderRight {
+    @await Html.PartialAsync("~/Views/Shared/_UserHeader.cshtml")
+}
+
+<div class="container">
+    <h3 class="mt-5">Create New Membership</h3>
+    <form asp-action="Create">
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Membership Name</label>
+            <input type="text" class="form-control" asp-for="Name" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Cost" class="form-label">Cost $</label>
+            <input type="number" class="form-control" asp-for="Cost" />
+            <span asp-validation-for="Cost" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Duration" class="form-label">Duration in Months</label>
+            <input type="number" class="form-control" asp-for="Duration" />
+            <span asp-validation-for="Duration" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <input type="datetime" class="form-control" value="@DateTime.Now" asp-for="CreatedOn" hidden/>
+        </div>
+        
+        <button type="submit" class="btn btn-primary mb-3">Submit</button>
+    </form>
+    
+</div>
+
+@section Scripts{
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+    <script src="~/lib/jqueryui/jquery-ui.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.js"></script>
+}

@@ -1,0 +1,5 @@
+2023-01-11 18:12:32.811 -06:00 [INF] Starting web host
+2023-01-11 18:12:36.209 -06:00 [INF] Called Index method MembersController
+2023-01-11 18:13:09.776 -06:00 [INF] Called Index method MembersController
+2023-01-11 18:16:06.869 -06:00 [INF] Starting web host
+2023-01-11 18:16:09.522 -06:00 [INF] Called Index method in MembersController
